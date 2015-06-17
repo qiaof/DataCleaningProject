@@ -8,6 +8,7 @@ The site where the data was obtained:
 The data for the project:  
     https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip 
 
+
 # run_analysis.R 
 
 This script performs the following steps to clean the data:   
